@@ -17,7 +17,4 @@
   </a>
 </div>
 
-
-### Profile Views
-
-![](https://count.getloli.com/get/@Brain777777.github.readme)
+![View](https://count.getloli.com/get/@Brain777777.github.readme)
