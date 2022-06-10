@@ -19,7 +19,7 @@
 
 <div>
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brain777777&theme=radical"/>
+    <img width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brain777777&theme=radical&hide_border=true"/>
   </a>
 </div>
 
