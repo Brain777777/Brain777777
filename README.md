@@ -12,15 +12,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Brain777777&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub+Stats"/>
   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api?user=Brain777777&theme=radical&hide_border=true"/>
-  </a>
-</div>
-
-<div>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brain777777&theme=radical&hide_border=true"/>
-  </a>
 </div>
 
 ![View](https://count.getloli.com/get/@Brain777777.github.readme)
