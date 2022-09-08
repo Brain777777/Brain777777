@@ -13,7 +13,7 @@
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Brain777777&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub+Stats"/>
   </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Brain777777&theme=radical&hide_border=true"/>
+    <img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api?user=Brain777777&theme=radical&hide_border=true"/>
   </a>
 </div>
 
