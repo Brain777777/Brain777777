@@ -2,7 +2,6 @@
 <h3>🤪 Hi guys I'm Brain</h3>
 </div>
 
-- 🔭 I’m currently working on a department in Muyuan Group
 - 🌱 I’m currently learning React And Typescript
 - 📫 How to reach me: [Email](827421256@qq.com)
 
